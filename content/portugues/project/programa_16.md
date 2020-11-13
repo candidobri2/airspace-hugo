@@ -1,6 +1,6 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "Do Ceará para o mundo: um papo com quem faz acontecer"
+description: "MESA REDONDA"
 draft: false
 image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"

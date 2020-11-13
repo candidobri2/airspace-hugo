@@ -1,6 +1,6 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "Metodologias ágeis e criativas"
+description: "OFICINA"
 draft: false
 image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"

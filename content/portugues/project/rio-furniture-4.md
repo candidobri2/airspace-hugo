@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Python: aprenda a programar"
+description: "OFICINA"
 draft: false
-image : "images/portfolio/work4.jpg"
+image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"
-category: "04/12"
+category: "Trilha de Tecnologia e Startups"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

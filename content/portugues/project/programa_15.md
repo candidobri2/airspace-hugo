@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Customer Sucess"
+description: "o método de negócios"
 draft: false
-image : "images/portfolio/work3.jpg"
+image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"
-category: "03/12"
+category: "Trilha de Tecnologia e Startups"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

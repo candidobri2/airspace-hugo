@@ -1,6 +1,6 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "A importância das comunidades para o ecossistema empreendedor"
+description: "MESA REDONDA"
 draft: false
 image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"

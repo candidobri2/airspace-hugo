@@ -39,7 +39,7 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Quem nos ajuda a fazer a SEP"
+  title : "Quem faz a SEP conosco"
   subtitle : "Patrocinadores"
   description : "Nossos lindos patrocinadores."
   service_item:

@@ -3,43 +3,39 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Candido a venda"
-      price: "$12"
+    - name : "Gratuito"
+      price: "R$0"
       content : "Perfect for single freelancers who work by themselves"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - 2 Palestras
+        - 2 Mesas Redondas
         
     # pricing table loop
-    - name : "Premium"
-      price: "$199"
+    - name : "Livre"
+      price: "R$ 14,99"
       content : "Suitable for small businesses with up to 5 employees"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - 2 Palestras
+        - 2 Mesas redondas
+        - 3 Minicursos
+        - 2 Oficinas
+        - 3 Talks
         
     # pricing table loop
-    - name : "Advance"
-      price: "$299"
+    - name : "Pacote Trilha"
+      price: "R$14,99"
       content : "Suitable for large businesses with unlimited employees"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - 2 Palestras
+        - 2 Mesas redondas
+        - 3 Minicursos
+        - 2 Oficinas
+        - 3 talks
+        - Material dos apresentadores
+        - Participação no Desafio (com premiação)
         
 ############################# call to action #################################
 cta:

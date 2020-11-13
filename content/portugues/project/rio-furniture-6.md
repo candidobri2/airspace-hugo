@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Finanças pessoais"
+description: "como utilizar seus recursos financeiros de forma adequada?"
 draft: false
-image : "images/portfolio/work6.jpg"
+image : "images/portfolio/mundo_corporativo.png"
 bg_image: "images/featue-bg.jpg"
-category: "03/12"
+category: "Trilha de Mundo Corporativo"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

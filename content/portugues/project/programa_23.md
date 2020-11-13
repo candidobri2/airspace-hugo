@@ -1,10 +1,10 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "O futuro da indústria: como as novas tecnologias influenciarão os processos de produção"
+description: "MESA REDONDA"
 draft: false
-image : "images/portfolio/tecnologia.png"
+image : "images/portfolio/mundo_corporativo.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Tecnologia e Startups"
+category: "Trilha de Indústria"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Tirando sua startup do papel"
+description: "o bê-a-bá do empreendedor"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"
-category: "01/12"
+category: "Trilha de Tecnologia e Startups"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

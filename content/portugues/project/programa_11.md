@@ -1,10 +1,10 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "Introdução"
+description: "Bem vindo(a) a trilha"
 draft: false
-image : "images/portfolio/tecnologia.png"
+image : "images/portfolio/tecnologia_mundocorporativo.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Tecnologia e Startups"
+category: "Trilha de Mundo Corporativo"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

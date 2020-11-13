@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Oratória"
+description: "Sobre a arte de falar em público"
 draft: false
-image : "images/portfolio/work5.jpg"
+image : "images/portfolio/tecnologia_mundocorporativo.png"
 bg_image: "images/featue-bg.jpg"
-category: "04/12"
+category: "Trilha de Tecnologia e Startups"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

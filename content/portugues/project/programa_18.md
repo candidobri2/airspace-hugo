@@ -1,10 +1,10 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "O Engenheiro de Produção multi-tarefas"
+description: ""
 draft: false
-image : "images/portfolio/tecnologia.png"
+image : "images/portfolio/mundo_corporativo.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Tecnologia e Startups"
+category: "Trilha de Indústria"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
