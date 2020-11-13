@@ -108,3 +108,9 @@ funfacts:
       image : "images/clients/avater-1.jpg"
       designation : "3° Semestre de Engenharia de Produção"
       content : "Participar da SEP é uma experiência que todo estudante precisa ter. Sair do ambiente acadêmico e visitar as empresas que podem vir a ser nosso campo de trabalho no futuro é o ponto alto desse evento. Além disso, gostaria de salientar a organização da SEP. A equipe sempre esteve presente. Tanto fisicamente, quanto nas redes sociais."
+
+    # testimonial item loop
+    - name : "Maria Andreza Holanda Guia"
+      image : "images/clients/andreza.png"
+      designation : "3° Semestre de Engenharia de Produção"
+      content : "A SEP proporciona a oportunidade de conhecer o ambiente de trabalho a ser exercido fora do mundo acadêmico ainda no período de graduação com palestras, oficinas e visitas técnicas que levam a experiência, o conhecimento e a satisfação de estar inserido nem que seja ao menos em uma semana diante de toda a carreira profissional que o participante terá pós universidade."
