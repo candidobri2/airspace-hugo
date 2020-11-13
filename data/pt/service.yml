@@ -61,12 +61,40 @@ parceiros:
   service_item:
 
 
+    # service item loop
+    - image : "images/parceiros/ufc.png"
+      name: Universidade Federal do Ceará
+      content: ""
+      
+    # service item loop
+    - image : "images/parceiros/petprod.png"
+      name: PET Produção UFC
+      content: ""
+      
+    # service item loop
+    - image : "images/parceiros/cemp.png"
+      name: Centro de Empreendedorismo da UFC
+      content: ""
+      
+
+
 apoiadores:
   enable : true
   title : "Apoiadores"
   description : "Nossos lindos patrocinadores."
   service_item:
    
+
+   # service item loop
+    - image : "images/parceiros/voitto.png"
+      name: Voitto
+      content: ""
+      
+   # service item loop
+    - image : "images/parceiros/voitto.png"
+      name: Voitto
+      content: ""
+      
    # service item loop
     - image : "images/parceiros/voitto.png"
       name: Voitto
