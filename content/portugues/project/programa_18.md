@@ -2,7 +2,7 @@
 title: "O Engenheiro de Produção multi-tarefas"
 description: ""
 draft: false
-image : "images/portfolio/mundo_corporativo.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
 category: "Trilha de Indústria"
 information:

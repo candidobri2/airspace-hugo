@@ -1,10 +1,10 @@
 ---
-title: "Processos seletivos em grandes empresas"
-description: "OFICINA"
+title: "PowerBI"
+description: "facilite a conexão com seus dados"
 draft: false
-image : "images/portfolio/mundo_corporativo.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Mundo Corporativo"
+category: "Trilha de Indústria"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

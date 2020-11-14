@@ -15,7 +15,7 @@ pricing:
     - name : "Livre"
       price: "R$ 14,99"
       content : "Suitable for small businesses with up to 5 employees"
-      link : "#"
+      link : "https://www.even3.com.br/sep_ufc_2020/"
       services:
         - 2 Palestras
         - 2 Mesas redondas
@@ -27,7 +27,7 @@ pricing:
     - name : "Pacote Trilha"
       price: "R$14,99"
       content : "Suitable for large businesses with unlimited employees"
-      link : "#"
+      link : "https://www.even3.com.br/sep_ufc_2020/"
       services:
         - 2 Palestras
         - 2 Mesas redondas

@@ -1,8 +1,8 @@
 ---
-title: "Introdução"
-description: "Bem vindo(a) a trilha"
+title: "2. Introdução"
+description: "Bem vindo(a) a trilha de Mundo Corporativo"
 draft: false
-image : "images/portfolio/tecnologia_mundocorporativo.png"
+image : "images/portfolio/mundo_corporativo.png"
 bg_image: "images/featue-bg.jpg"
 category: "Trilha de Mundo Corporativo"
 information:

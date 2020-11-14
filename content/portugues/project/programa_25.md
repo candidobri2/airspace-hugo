@@ -2,7 +2,7 @@
 title: "Planejamento e Controle da Produção"
 description: "OFICINA"
 draft: false
-image : "images/portfolio/mundo_corporativo.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
 category: "Trilha de Indústria"
 information:

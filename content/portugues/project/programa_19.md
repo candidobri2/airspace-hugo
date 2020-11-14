@@ -2,7 +2,7 @@
 title: "O Engenheiro de Produção e a Indústria 4.0"
 description: "MESA REDONDA"
 draft: false
-image : "images/portfolio/mundo_corporativo.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
 category: "Trilha de Indústria"
 information:

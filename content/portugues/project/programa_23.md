@@ -2,7 +2,7 @@
 title: "O futuro da indústria: como as novas tecnologias influenciarão os processos de produção"
 description: "MESA REDONDA"
 draft: false
-image : "images/portfolio/mundo_corporativo.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
 category: "Trilha de Indústria"
 information:

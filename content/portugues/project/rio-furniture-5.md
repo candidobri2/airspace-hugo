@@ -2,7 +2,7 @@
 title: "Oratória"
 description: "Sobre a arte de falar em público"
 draft: false
-image : "images/portfolio/tecnologia_mundocorporativo.png"
+image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"
 category: "Trilha de Tecnologia e Startups"
 information:
