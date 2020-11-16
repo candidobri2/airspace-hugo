@@ -1,23 +1,20 @@
 ---
-title: "PowerBI"
-description: "facilite a conexão com seus dados"
+title: "Oratória"
+description: "Sobre a arte de falar em público"
 draft: false
-image : "images/portfolio/industria.png"
+image : "images/portfolio/mundo_corporativo.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Indústria"
+category: "Trilha de Mundo Corporativo"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
+  - label : "Facilitador"
+    info : "Em breve"
+  - label : "Data"
     info : "Website Redesign"
-  - label : "Tools Used"
+  - label : "Horário"
     info : "Photoshop,Illustrator"
-  - label : "Completed on"
+  - label : "Trilha"
     info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+
 ---
 
 ## Behance Website Redesign

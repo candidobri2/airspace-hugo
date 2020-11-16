@@ -40,66 +40,64 @@ featured_service:
 service:
   enable : true
   title : "Quem faz a SEP conosco"
-  subtitle : "Patrocinadores"
-  description : "Nossos lindos patrocinadores."
+  subtitle : "Realização"
+  description : ""
   service_item:
     # service item loop
-    - image : "images/parceiros/fixpay.png"
+    - image : "images/parceiros/petprod.png"
       name: Fix Pay
       content: ""
 
     # service item loop
-    - image : "images/parceiros/sigame.png"
+    - image : "images/parceiros/caepro.png"
       name: Siga-me Informática
       content: ""
 
+    # service item loop
+    - image : "images/parceiros/ufc.png"
+      name: Siga-me Informática
+      content: ""
 
 parceiros:
   enable : true
-  title : "Parceiros"
+  title : "Patrocinadores"
   description : "Nossos lindos patrocinadores."
   service_item:
 
 
     # service item loop
-    - image : "images/parceiros/ufc.png"
+    - image : "images/parceiros/sigame.png"
+      name: Universidade Federal do Ceará
+      content: ""
+
+      # service item loop
+    - image : "images/parceiros/fixpay.png"
       name: Universidade Federal do Ceará
       content: ""
       
     # service item loop
-    - image : "images/parceiros/petprod.png"
+    - image : "images/parceiros/voitto.png"
       name: PET Produção UFC
       content: ""
-      
-    # service item loop
-    - image : "images/parceiros/cemp.png"
-      name: Centro de Empreendedorismo da UFC
-      content: ""
-      
+  
 
 
 apoiadores:
   enable : true
-  title : "Apoiadores"
+  title : "Parceiros"
   description : "Nossos lindos patrocinadores."
   service_item:
    
 
    # service item loop
-    - image : "images/parceiros/voitto.png"
+    - image : "images/parceiros/cemp.png"
       name: Voitto
       content: ""
       
    # service item loop
-    - image : "images/parceiros/voitto.png"
+    - image : "images/parceiros/russas.png"
       name: Voitto
       content: ""
-      
-   # service item loop
-    - image : "images/parceiros/voitto.png"
-      name: Voitto
-      content: ""
-
 
 ############################# call to action #################################
 cta:

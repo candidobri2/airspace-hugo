@@ -86,7 +86,7 @@ hasChildren = true
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo4.png"
 # Meta data
 description = "This is meta description"
 author = "PET Produção"

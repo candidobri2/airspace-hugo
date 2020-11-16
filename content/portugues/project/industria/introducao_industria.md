@@ -1,26 +1,22 @@
 ---
-title: "1. Introdução"
-description: "Bem vindo(a) a trilha a trilha de Tecnologia e Startups"
+title: "3. Introdução"
+description: "Bem vindo(a) a trilha de Indústria"
 draft: false
-image : "images/portfolio/tecnologia.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Tecnologia e Startups"
+category: "Trilha de Indústria"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
+  - label : "Facilitador"
+    info : "Em breve"
+  - label : "Data"
     info : "Website Redesign"
-  - label : "Tools Used"
+  - label : "Horário"
     info : "Photoshop,Illustrator"
-  - label : "Completed on"
+  - label : "Trilha"
     info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Mais informações em breve
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

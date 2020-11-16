@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/123.gif"
-  title : "SEP XVII | Semana de Engenharia de Produção UFC"
+  title : "SEP 2020 | Semana de Engenharia de Produção UFC"
   content : "**Empreendedorismo e inovação: adaptando a engenharia de produção às novas necessidades do mercado** 
    
 
@@ -20,7 +20,7 @@ about:
 "
   content : "Este ano, pivotamos. Analisamos tudo que já havíamos feitos, diversas vezes sob diversas perspectivas. Escolhemos inovar. Dessa vez, traremos a SEP em um formato jamais antes visto. Preparamos não uma semana, mas um conjunto de experiências que os farão experienciar o que é a SEP 2020. Esperamos vocês!
 "
-  image : "images/melhor_sep.png"
+  image : "images/melhor_sep6.png"
 
 about2:
   enable : true
@@ -99,13 +99,13 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Gabriel Costa"
-      image : "images/clients/avater-1.jpg"
+      image : "images/clients/gabriel.jpg"
       designation : "3° Semestre de Engenharia de Produção"
       content : "Participar da SEP foi bem enriquecedor, pois durante toda a semana foi possível participar de inúmeras atividades de diversos assuntos bem atuais e interessantes, além de concorrer a prêmios. Ano passado participei da visita técnica à Ambev que foi muito massa ver a história e os processos que acontecem lá dentro. Além disso, também pude participar de dois minicursos e de algumas palestras, todas muito bem organizadas e com excelentes conteúdos abordados pelos apresentadores. Ademais, foi um evento muito irado e recomendo bastante!"
                 
     # testimonial item loop
     - name : "Vinícius Santos"
-      image : "images/clients/avater-1.jpg"
+      image : "images/clients/vinicius.jpg"
       designation : "3° Semestre de Engenharia de Produção"
       content : "Participar da SEP é uma experiência que todo estudante precisa ter. Sair do ambiente acadêmico e visitar as empresas que podem vir a ser nosso campo de trabalho no futuro é o ponto alto desse evento. Além disso, gostaria de salientar a organização da SEP. A equipe sempre esteve presente. Tanto fisicamente, quanto nas redes sociais."
 

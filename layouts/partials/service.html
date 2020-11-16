@@ -13,11 +13,9 @@
       <br>
       <br>
       {{ range .service_item }}
-      <div class="col-sm-6 col-md-3">
+      <div class="col-sm-6 col-md-4">
         <div class="service-item">
           <img src="{{ .image | relURL }}" alt="client">
-          <h4>{{ .name | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
         </div>
     </div>
       {{ end }}
@@ -35,11 +33,9 @@
       <br>
       <br>
       {{ range .service_item }}
-      <div class="col-sm-6 col-md-3">
+      <div class="col-sm-6 col-md-4">
         <div class="service-item">
           <img src="{{ .image | relURL }}" alt="client">
-          <h4>{{ .name | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
         </div>
     </div>
       {{ end }}
@@ -55,11 +51,9 @@
       <br>
       <br>
       {{ range .service_item }}
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item displayed">
           <img src="{{ .image | relURL }}" alt="client">
-          <h4>{{ .name | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
         </div>
     </div>
     {{ end }}

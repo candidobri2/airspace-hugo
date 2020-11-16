@@ -17,10 +17,14 @@ Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedor
 
   funfacts:
     # funfacts loop
+    - icon : "ion-calendar" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Neste ano"
+      count : "2020"
+      
     - icon : "ion-speakerphone" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Palestras"
       count : "6"
-      
+
     # funfacts loop
     - icon : "ion-university" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Minicursos"
@@ -40,11 +44,37 @@ Este ano, não poderia ser diferente. Iremos imergi-los na área do empreendedor
     - icon : "ion-settings" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Oficinas"
       count : "6"
+
+  funfacts2:
+    # funfacts loop
+    - icon : "ion-calendar" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "até aqui, foram:"
+      count : "2014"
+      
+    # funfacts loop
+    - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Participantes"
+      count : "552"
       
     # funfacts loop
     - icon : "ion-briefcase" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Empresas Envolvidas"
-      count : "999"
+      name : "Visitas técnicas"
+      count : "21"
+      
+    # funfacts loop
+    - icon : "ion-speakerphone" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Palestras"
+      count : "12"
+      
+    # funfacts loop
+    - icon : "ion-settings" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Minicursos"
+      count : "68"
+      
+    # funfacts loop
+    - icon : "ion-android-chat" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Mesas redondas"
+      count : "9"
       
 ################################ feature #####################################
 features:

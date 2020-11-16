@@ -2,6 +2,12 @@
   text-align: center;
   padding: 10px 0;
 
+  .displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    }
+
   .service-item {
     padding-bottom: 30px;
     i {
@@ -20,6 +26,12 @@
       padding-top: 10px;
       margin: 0;
     }
+
+    img {
+    width: 170px;
+    height: 78px;
+    }
+
   }
 }
 
