@@ -1,6 +1,6 @@
 ---
-title: "PowerBI"
-description: "facilite a conexão com seus dados"
+title: "Machine Learning"
+description: ""
 draft: false
 image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
@@ -14,7 +14,6 @@ information:
     info : "Photoshop,Illustrator"
   - label : "Trilha"
     info : "Indústria"
-
 ---
 
 ## Mais informações em breve

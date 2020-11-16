@@ -13,7 +13,7 @@ information:
   - label : "Horário"
     info : "Photoshop,Illustrator"
   - label : "Trilha"
-    info : "17th March 2014"
+    info : "Indústria"
 ---
 
 ## Mais informações em breve

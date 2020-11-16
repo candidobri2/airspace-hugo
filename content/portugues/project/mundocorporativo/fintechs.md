@@ -1,6 +1,6 @@
 ---
-title: "Oratória"
-description: "Sobre a arte de falar em público"
+title: "As fintechs e o futuro das finanças"
+description: "MESA REDONDA"
 draft: false
 image : "images/portfolio/mundo_corporativo.png"
 bg_image: "images/featue-bg.jpg"
@@ -9,9 +9,9 @@ information:
   - label : "Facilitador"
     info : "Em breve"
   - label : "Data"
-    info : "Terça, 1 de Dezembro"
+    info : "Quinta, 3 de Dezembro"
   - label : "Horário"
-    info : "18h - 20h"
+    info : "10h - 12h"
   - label : "Trilha"
     info : "Mundo Corporativo"
 ---

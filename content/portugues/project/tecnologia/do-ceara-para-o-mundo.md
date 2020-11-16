@@ -1,6 +1,6 @@
 ---
-title: "Data Science"
-description: "insights para tomada de decisão"
+title: "Do Ceará para o mundo: um papo com quem faz acontecer"
+description: "MESA REDONDA"
 draft: false
 image : "images/portfolio/tecnologia.png"
 bg_image: "images/featue-bg.jpg"
@@ -9,9 +9,9 @@ information:
   - label : "Facilitador"
     info : "Em breve"
   - label : "Data"
-    info : "Quarta, 2 de Dezembro"
+    info : "Terça, 1 de Dezembro"
   - label : "Horário"
-    info : "14h - 16h"
+    info : "16h - 18h "
   - label : "Trilha"
     info : "Tecnologia e Startups"
 ---

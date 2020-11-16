@@ -3,6 +3,13 @@
 {{ partial "page-title.html" . }}
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
+<section style= "padding: 30px 0;" class="programacao">
+  <div class="container">
+    <div class="block">
+      <center><img src="/images/programacao.png" class="img-responsive" alt="Img"></center>
+    </div>
+  </div>
+</section>
 
 <!-- Portfolio Start -->
 <section class="portfolio-work">
@@ -12,6 +19,8 @@
         <div class="block">
           <div class="portfolio-menu">
             <div class="btn-group btn-group-toggle justify-content-center" data-toggle="buttons">
+              <h2>Saiba mais sobre cada programação</h2>
+              <br>
               <label class="btn btn-sm btn-primary active">
                 <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
               </label>

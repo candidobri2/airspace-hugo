@@ -1,19 +1,19 @@
 ---
-title: "Python: aprenda a programar"
+title: "Planejamento e Controle da Produção"
 description: "OFICINA"
 draft: false
-image : "images/portfolio/tecnologia.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Tecnologia e Startups"
+category: "Trilha de Indústria"
 information:
   - label : "Facilitador"
     info : "Em breve"
   - label : "Data"
-    info : "Quinta, 3 de Dezembro"
+    info : "Website Redesign"
   - label : "Horário"
-    info : "14h - 16h"
+    info : "Photoshop,Illustrator"
   - label : "Trilha"
-    info : "Tecnologia e Startups"
+    info : "Indústria"
 ---
 
 ## Mais informações em breve

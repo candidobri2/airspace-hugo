@@ -1,23 +1,19 @@
 ---
-title: "Customer Sucess"
-description: "o método de negócios"
+title: "O futuro da indústria: como as novas tecnologias influenciarão os processos de produção"
+description: "MESA REDONDA"
 draft: false
-image : "images/portfolio/tecnologia.png"
+image : "images/portfolio/industria.png"
 bg_image: "images/featue-bg.jpg"
-category: "Trilha de Tecnologia e Startups"
+category: "Trilha de Indústria"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
+  - label : "Facilitador"
+    info : "Em breve"
+  - label : "Data"
     info : "Website Redesign"
-  - label : "Tools Used"
+  - label : "Horário"
     info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Trilha"
+    info : "Indústria"
 ---
 
 ## Behance Website Redesign
