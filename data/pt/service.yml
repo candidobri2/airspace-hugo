@@ -99,6 +99,10 @@ apoiadores:
       name: Voitto
       content: ""
 
+   # service item loop
+    - image : "images/parceiros/nuceenp.png"
+      name: Voitto
+      content: ""   
 ############################# call to action #################################
 cta:
   enable : true

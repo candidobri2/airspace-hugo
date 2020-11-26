@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/123.gif"
+  bg_image : "images/123.png"
   title : "SEP 2020 | Semana de Engenharia de Produção UFC"
   content : "**Empreendedorismo e inovação: adaptando a engenharia de produção às novas necessidades do mercado** 
    

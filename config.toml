@@ -46,18 +46,18 @@ link = "plugins/google-map/gmap.js"
 # main menu
 [[menu.main]]
 name = "Sobre"
-URL = "about"
+URL = "sobre"
 weight = 1
 
 [[menu.main]]
 name = "Programação"
-URL = "project"
+URL = "programacao"
 weight = 2
 
 
 [[menu.main]]
 name = "Inscreva-se"
-URL = "pricing"
+URL = "inscricoes"
 weight = 3
 
 [[menu.main]]
@@ -88,7 +88,7 @@ hasChildren = true
 [params]
 logo = "images/logo4.png"
 # Meta data
-description = "This is meta description"
+description = "Confira informações sobre a 17° edição da Semana de Engenharia de Produção da Universidade Federal do Ceará."
 author = "PET Produção"
 # Contact Information
 phone = "994106831 | 987414628"
@@ -97,7 +97,7 @@ location = "Campus do Pici | Universidade Federal do Ceará"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "G-J9MJYCQK9L" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 

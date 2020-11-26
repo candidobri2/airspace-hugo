@@ -5,8 +5,8 @@ pricing:
     # pricing table loop
     - name : "Gratuito"
       price: "R$0"
-      content : "Perfect for single freelancers who work by themselves"
-      link : "#"
+      content : ""
+      link : "https://forms.gle/6JdNKSLCxzCJRLG5A"
       services:
         - 2 Palestras
         - 2 Mesas Redondas
@@ -14,7 +14,7 @@ pricing:
     # pricing table loop
     - name : "Livre"
       price: "R$ 14,99"
-      content : "Suitable for small businesses with up to 5 employees"
+      content : ""
       link : "https://www.even3.com.br/sep_ufc_2020/"
       services:
         - 2 Palestras
@@ -26,7 +26,7 @@ pricing:
     # pricing table loop
     - name : "Pacote Trilha"
       price: "R$14,99"
-      content : "Suitable for large businesses with unlimited employees"
+      content : ""
       link : "https://www.even3.com.br/sep_ufc_2020/"
       services:
         - 2 Palestras
